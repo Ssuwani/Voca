@@ -1,16 +1,10 @@
 # Voca
 
-A new Flutter project.
+보카 앱 ! 
 
-## Getting Started
+간단히 영어 단어가 있고 확인하기 버튼을 누르면 자신이 생각한 것과 같은지 확인할 수 있다.
 
-This project is a starting point for a Flutter application.
+그 후 아는 단어면 "안다" 버튼을 클릭하고 모르면 "모름" 버튼을 클릭한다.
 
-A few resources to get you started if this is your first Flutter project:
+모름 버튼을 클릭한 단어들은 나중에 다시 확인할 수 있다.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
